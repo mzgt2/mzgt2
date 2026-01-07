@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning Linux 
+I'm currently learning Linux and Python
 
 I'm working on projects to build my portfolio
 
